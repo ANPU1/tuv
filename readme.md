@@ -1,1 +1,2 @@
-http://127.0.0.1:5500/index.html
+<p>This is output  for portfolio assignment</p>
+<img src="images/output doc.png">
